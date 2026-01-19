@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/demik/Desktop/1/240/project_phase1",
-      "program": "c:/Users/demik/Desktop/1/240/project_phase1/build/Debug/outDebug",
+      "cwd": "project url",
+      "program": "project url/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
